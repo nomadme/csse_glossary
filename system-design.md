@@ -8,10 +8,6 @@ application design where all application tiers are managed as a single unit
 **Microservice:**<br> 
 application design where application tiers are managed as independent, smaller units
 
-<br/>
-<br/>
-<br/>
-
 ### Docker and Kubernetes
 ___
 
@@ -75,10 +71,6 @@ resource management technique, that operates and interacts directly with the liv
 **Declarative configuration:**<br>
 resource management technique, that operates and manages resources using YAML manifests stored locally.
 
-<br/>
-<br/>
-<br/>
-
 ### Cloud-Computing Services
 ___
 
@@ -96,10 +88,6 @@ an open-source PaaS offering, that can be hosted on any available infrastructure
 
 **FaaS or Function as a Service:**<br> 
 event-driven cloud-computing service that requires only the application code to execute successfully.
-
-<br/>
-<br/>
-<br/>
 
 ### Ci/CD
 ___
