@@ -34,22 +34,22 @@ A mathematical term for a surface that contains more than two planes.
 **Impute:**<br>
 is a common term referring to different statistical tools which can be used to calculate missing values from your dataset.
 
-**label:**<br>
+**Label:**<br>
 refers to data that already contains the solution.
 
-**loss function:**<br>
+**Loss function:**<br>
 is used to codify the model’s distance from this goal
 
 **Machine learning or ML:**<br>
 is a modern software development technique that enables computers to solve problems by using examples of real-world data.
 
 **Model accuracy**<br>
-is the fraction of predictions a model gets right. Discrete: A term taken from statistics referring to an outcome taking on only a finite number of values (such as days of the week). Continuous: Floating-point values with an infinite range of possible values. The opposite of categorical or discrete values, which take on a limited number of possible values.
+is the fraction of predictions a model gets right.
 
 **Model inference:**<br>
-is when the trained model is used to generate predictions.
+is when the trained model is used to generate predictions. It can also mean finding patterns in data (for unsupervised machine learning tasks).
 
-**model:**<br>
+**Model:**<br>
 is an extremely generic program, made specific by the data used to train it.
 
 **Model parameters:**<br>
@@ -76,7 +76,7 @@ In **reinforcement learning**, the algorithm figures out which actions to take i
 Recurrent Neural Networks (RNN) and the related Long Short-Term Memory (LSTM) model types are structured to effectively represent for loops in traditional computing, collecting state while iterating over some object. They can be used for processing sequences of data.
 
 **Silhouette coefficient:**<br>
-A score from -1 to 1 describing the clusters found during modeling. A score near zero indicates overlapping clusters, and scores less than zero indicate data points assigned to incorrect clusters. A
+A score from -1 to 1 describing the clusters found during modeling. A score near zero indicates overlapping clusters, and scores less than zero indicate data points assigned to incorrect clusters. Scores near 1 indicate a successful indentification of non-overlapping clusters.
 
 **Stop words:**<br>
 A list of words removed by natural language processing tools when building your dataset. There is no single universal list of stop words used by all-natural language processing tools.
