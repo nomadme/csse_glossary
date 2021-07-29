@@ -12,3 +12,7 @@
 | merge | nlogn &emsp; nlogn &emsp; nlogn | n | true
 | bucket | n + k &emsp; n + k &emsp; n + k | nk
 | radix | nk &emsp; nk &emsp; nk
+
+
+### Master Theorem
+provides asymptotic analysis (time complexity) for many of the recursion algorithms that follow the patter of divide-and-conquer.
