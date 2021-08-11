@@ -16,3 +16,13 @@
 
 ### Master Theorem
 provides asymptotic analysis (time complexity) for many of the recursion algorithms that follow the patter of divide-and-conquer.
+
+### Primitive data type
+• a basic data type provided by the programming language.
+
+* chars, int, floats, fixed-points, booleans, pointers
+
+• a built-in type is a data type for which the programming language provides built-in support.
+
+* tuple, list, complex number, rational number, arrays
+* first-class function - JS, Lua, Go, Java, C++, C#
